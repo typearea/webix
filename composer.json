@@ -1,0 +1,7 @@
+{
+    "name": "typearea/webix",
+    "description": "Composer package for webix (www.webix.com)",
+    "type": "library",
+    "license": "GNU GPL V3",
+    "require": {}
+}
