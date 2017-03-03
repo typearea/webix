@@ -36,9 +36,9 @@
 		});
 
 		function toggleHeatMap(){
-			var heatmap = $$("map").heatmap;
+			var heatmap = $$("map").getHeatmap();
 			if(heatmap)
-				$$("map").heatmap.setMap(heatmap.getMap()?null: $$("map").map);
+				heatmap.setMap(heatmap.getMap()?null: $$("map").getMap());
 		}
 
 		function updateHeatMap(){
@@ -63,7 +63,8 @@
 
 		function updateData(){
 			var item = $$("map").getItem($$("map").getFirstId());
-			$$("map").updateItem(item.id, {weight: 3});
+			if(item)
+				$$("map").updateItem(item.id, {weight: 3});
 		}
 
 		function clearMap(){

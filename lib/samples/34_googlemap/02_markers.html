@@ -46,13 +46,15 @@
 		}
 
 		function animateMarker(){
-			var item = $$("map").getItem(1).$marker;
+			var item = $$("map").getItem(1);
 			if(!item) return;
 
-			if (item.getAnimation())
-				item.setAnimation(null);
+			var marker = item.$marker;
+
+			if (marker.getAnimation())
+				marker.setAnimation(null);
 			else
-				item.setAnimation(google.maps.Animation.BOUNCE);
+				marker.setAnimation(google.maps.Animation.BOUNCE);
 		}
 
 		function clearMap(){

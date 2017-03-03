@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ae9db29-8ed8-4d39-944c-8574ea04c667" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/samples/32_thirdparty/10_nokia_map.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/i18n/be.js" afterPath="$PROJECT_DIR$/lib/codebase/i18n/be.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/i18n/de.js" afterPath="$PROJECT_DIR$/lib/codebase/i18n/de.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/i18n/en.js" afterPath="$PROJECT_DIR$/lib/codebase/i18n/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/i18n/es.js" afterPath="$PROJECT_DIR$/lib/codebase/i18n/es.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/i18n/fr.js" afterPath="$PROJECT_DIR$/lib/codebase/i18n/fr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/i18n/it.js" afterPath="$PROJECT_DIR$/lib/codebase/i18n/it.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/i18n/ja.js" afterPath="$PROJECT_DIR$/lib/codebase/i18n/ja.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/i18n/pt.js" afterPath="$PROJECT_DIR$/lib/codebase/i18n/pt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/i18n/ru.js" afterPath="$PROJECT_DIR$/lib/codebase/i18n/ru.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/i18n/zh.js" afterPath="$PROJECT_DIR$/lib/codebase/i18n/zh.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/air.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/air.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/aircompact.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/aircompact.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/clouds.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/clouds.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/compact.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/compact.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/contrast.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/contrast.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/debug/air.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/debug/air.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/debug/aircompact.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/debug/aircompact.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/debug/clouds.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/debug/clouds.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/debug/compact.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/debug/compact.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/debug/contrast.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/debug/contrast.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/debug/flat.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/debug/flat.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/debug/glamour.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/debug/glamour.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/debug/light.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/debug/light.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/debug/metro.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/debug/metro.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/debug/terrace.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/debug/terrace.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/debug/touch.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/debug/touch.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/debug/web.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/debug/web.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/flat.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/flat.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/glamour.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/glamour.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/light.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/light.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/metro.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/metro.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/terrace.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/terrace.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/touch.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/touch.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/skins/web.css" afterPath="$PROJECT_DIR$/lib/codebase/skins/web.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/webix.css" afterPath="$PROJECT_DIR$/lib/codebase/webix.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/webix.js" afterPath="$PROJECT_DIR$/lib/codebase/webix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/webix.js.map" afterPath="$PROJECT_DIR$/lib/codebase/webix.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/codebase/webix_debug.js" afterPath="$PROJECT_DIR$/lib/codebase/webix_debug.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/readme.txt" afterPath="$PROJECT_DIR$/lib/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/01_layout/index.html" afterPath="$PROJECT_DIR$/lib/samples/01_layout/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/02_toolbar/03_tabview.html" afterPath="$PROJECT_DIR$/lib/samples/02_toolbar/03_tabview.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/02_toolbar/12_styled_buttons.html" afterPath="$PROJECT_DIR$/lib/samples/02_toolbar/12_styled_buttons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/13_form/01_controls/14_toggle_images.html" afterPath="$PROJECT_DIR$/lib/samples/13_form/01_controls/14_toggle_images.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/14_dataprocessor/01_datatable.html" afterPath="$PROJECT_DIR$/lib/samples/14_dataprocessor/01_datatable.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/15_datatable/21_styling/04_rows_styling.html" afterPath="$PROJECT_DIR$/lib/samples/15_datatable/21_styling/04_rows_styling.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/15_datatable/22_dnd/04_reorder_dnd.html" afterPath="$PROJECT_DIR$/lib/samples/15_datatable/22_dnd/04_reorder_dnd.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/15_datatable/22_dnd/05_handle_dnd.html" afterPath="$PROJECT_DIR$/lib/samples/15_datatable/22_dnd/05_handle_dnd.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/15_datatable/31_treedrag/02_order_mode.html" afterPath="$PROJECT_DIR$/lib/samples/15_datatable/31_treedrag/02_order_mode.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/15_datatable/31_treedrag/04_drop_as_child.html" afterPath="$PROJECT_DIR$/lib/samples/15_datatable/31_treedrag/04_drop_as_child.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/15_datatable/31_treedrag/05_drop_next.html" afterPath="$PROJECT_DIR$/lib/samples/15_datatable/31_treedrag/05_drop_next.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/17_datatree/05_edit/01_selection.html" afterPath="$PROJECT_DIR$/lib/samples/17_datatree/05_edit/01_selection.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/17_datatree/22_dnd/07_order_mode.html" afterPath="$PROJECT_DIR$/lib/samples/17_datatree/22_dnd/07_order_mode.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/19_api/index.html" afterPath="$PROJECT_DIR$/lib/samples/19_api/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/21_upload/index.html" afterPath="$PROJECT_DIR$/lib/samples/21_upload/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/21_upload/php/upload.php" afterPath="$PROJECT_DIR$/lib/samples/21_upload/php/upload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/22_dnd/02_drag_order.html" afterPath="$PROJECT_DIR$/lib/samples/22_dnd/02_drag_order.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/22_dnd/03_drag_handle.html" afterPath="$PROJECT_DIR$/lib/samples/22_dnd/03_drag_handle.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/22_dnd/05_html_dnd_in.html" afterPath="$PROJECT_DIR$/lib/samples/22_dnd/05_html_dnd_in.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/30_backbone/05_views_models.html" afterPath="$PROJECT_DIR$/lib/samples/30_backbone/05_views_models.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/31_jquery/01_list.html" afterPath="$PROJECT_DIR$/lib/samples/31_jquery/01_list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/31_jquery/02_calendar.html" afterPath="$PROJECT_DIR$/lib/samples/31_jquery/02_calendar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/31_jquery/03_from_table.html" afterPath="$PROJECT_DIR$/lib/samples/31_jquery/03_from_table.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/31_jquery/04_custom_component.html" afterPath="$PROJECT_DIR$/lib/samples/31_jquery/04_custom_component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/32_thirdparty/07_raphael.html" afterPath="$PROJECT_DIR$/lib/samples/32_thirdparty/07_raphael.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/32_thirdparty/09_google_map.html" afterPath="$PROJECT_DIR$/lib/samples/32_thirdparty/09_google_map.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/32_thirdparty/index.html" afterPath="$PROJECT_DIR$/lib/samples/32_thirdparty/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/33_angular/04_events.html" afterPath="$PROJECT_DIR$/lib/samples/33_angular/04_events.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/34_googlemap/02_markers.html" afterPath="$PROJECT_DIR$/lib/samples/34_googlemap/02_markers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/34_googlemap/05_heatmap.html" afterPath="$PROJECT_DIR$/lib/samples/34_googlemap/05_heatmap.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/40_serverside/01_php_vanila/03_datatable_reordering.html" afterPath="$PROJECT_DIR$/lib/samples/40_serverside/01_php_vanila/03_datatable_reordering.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/80_docs/03_basic_app.html" afterPath="$PROJECT_DIR$/lib/samples/80_docs/03_basic_app.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/samples/80_docs/getpopup.html" afterPath="$PROJECT_DIR$/lib/samples/80_docs/getpopup.html" />
+    </list>
+    <ignored path="webix.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="webix" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LICENSE">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/readme.txt" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webix" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webix" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webix" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webix" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webix" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ae9db29-8ed8-4d39-944c-8574ea04c667" name="Default" comment="" />
+      <created>1484681605060</created>
+      <option name="number" value="Default" />
+      <updated>1484681605060</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="732" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25757575" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

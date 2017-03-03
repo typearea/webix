@@ -56,7 +56,9 @@
 					}));
 				},
 				deleteFirst:function(){
-					this.remove(this.first().cid);
+					if(this.length > 0) {
+						this.remove(this.first().cid);
+					}
 				}
 			});
 

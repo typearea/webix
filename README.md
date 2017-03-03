@@ -1,4 +1,4 @@
-# Webix UI v.4.1.0
+# Webix UI v.4.2.4
 
 Webix (www.webix.com) is a JavaScript/CSS library for modern web frontends, providing lots of configurable widgets.
 

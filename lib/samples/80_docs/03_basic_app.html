@@ -19,8 +19,8 @@ webix.ui({
         ]},
     	{ cols:[
         	{ view:"form", id:"myform", width: 200, elements:[
-                { view:"text", name:"title", placeholder:"Title"},
-                { view:"text", name:"year", placeholder:"Year"}
+                { view:"text", id:"title", name:"title", placeholder:"Title"},
+                { view:"text", id:"year", name:"year", placeholder:"Year"}
             ]},
 			{ view:"list", id:"mylist",
                 template:"#title# - #year#",
